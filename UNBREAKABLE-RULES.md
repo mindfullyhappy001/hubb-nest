@@ -28,7 +28,7 @@
 
 **6. Reviews und Deployments**
 - Mind. ein Code-Review vor Merge in „main“.
-- Wenn KIs (Lovable etc.) Code generieren, immer gegen RULES.md und Dateistruktur checken.
+- Wenn KIs (Lovable etc.) Code generieren, immer gegen UNBREAKABLE-RULES.md und Dateistruktur checken.
 
 **7. Micro-App Struktur & Import-Regeln**
 
